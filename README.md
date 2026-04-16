@@ -24,11 +24,13 @@ This team project focuses on forecasting future sales using historical sales dat
 - Insights were generated for better planning
 
 ## 📸 Forecast Preview
-Sales_Forecasting.png
+![Forecast](Sales_Forecasting.png)
 
 ## 📁 Files Included
-- Sales_Forecast_Dataset.csv
-- Retail_Sales_Forecasting_using_ARIMA_and_Prophet_with_Model_Performance_Comparison_Report.docx
-- Sales_Forecasting_Dashboard.pbix
+- `Sales_Forecast_Dataset.csv`– Dataset  
+- `Retail_Sales_Forecasting_using_ARIMA_and_Prophet_with_Model_Performance_Comparison_Report.docx`-Project Report 
+- `Sales_Forecasting_Dashboard.pbix`-Power BI Dashboard 
+
 ## 🚀 Conclusion
 This project demonstrates how forecasting techniques can help businesses improve planning, inventory management, and sales strategy.
+
